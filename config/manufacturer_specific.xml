@@ -225,11 +225,13 @@
 		<Product type="0103" id="00a2" name="ZW162 Doorbell 6" config="aeotec/zw162.xml"/>
 		<Product type="0203" id="00a2" name="ZW162 Doorbell 6" config="aeotec/zw162.xml"/>
 		<Product type="1d03" id="00a2" name="ZW162 Doorbell 6" config="aeotec/zw162.xml"/>
+		<Product type="0003" id="00af" name="ZW175 Smart Switch 7" config="aeotec/zw175.xml"/>
 		<Product type="0003" id="00b4" name="ZWA006 Smart Boost Timer Switch" config="aeotec/zwa006.xml"/>
 		<Product type="0103" id="00b4" name="ZWA006 Smart Boost Timer Switch" config="aeotec/zwa006.xml"/>
 		<Product type="0002" id="0007" name="ZWA008 Door Window Sensor 7" config="aeotec/zwa008.xml"/>
 		<Product type="0102" id="0007" name="ZWA008 Door Window Sensor 7" config="aeotec/zwa008.xml"/>
 		<Product type="0202" id="0007" name="ZWA008 Door Window Sensor 7" config="aeotec/zwa008.xml"/>
+		<Product type="0002" id="0015" name="ZWA021 Thermostatic Valve" config="aeotec/zwa021.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0088" name="Airvent SAM S.p.A.">
 	</Manufacturer>
@@ -745,8 +747,10 @@
 		<Product type="0300" id="0109" name="FGR221 Roller Shutter Controller" config="fibaro/fgr221.xml"/>
 		<Product type="0301" id="1001" name="FGRM222 Roller Shutter Controller 2" config="fibaro/fgrm222.xml"/>
 		<Product type="0302" id="1000" name="FGRM222 Roller Shutter Controller 2" config="fibaro/fgrm222.xml"/>
+		<Product type="0302" id="3000" name="FGRM222 Roller Shutter Controller 2" config="fibaro/fgrm222.xml"/>
 		<Product type="0302" id="4000" name="FGRM222 Roller Shutter Controller 2" config="fibaro/fgrm222.xml"/>
 		<Product type="0303" id="1000" name="FGRM223 Roller Shutter Controller 3" config="fibaro/fgr223.xml"/>
+		<Product type="0303" id="3000" name="FGRM223 Roller Shutter Controller 3" config="fibaro/fgr223.xml"/>
 		<Product type="0400" id="0104" name="FGS211 Switch 3kW" config="fibaro/fgs211.xml" />
 		<Product type="0400" id="0105" name="FGS211 Switch 3kW" config="fibaro/fgs211.xml" />
 		<Product type="0400" id="0106" name="FGS211 Switch 3kW" config="fibaro/fgs211.xml" />
@@ -760,6 +764,7 @@
 		<Product type="0402" id="4002" name="FGS212 Switch 3kW" config="fibaro/fgs212.xml" />
 		<Product type="0403" id="1000" name="FGS213 Switch" config="fibaro/fgs213.xml"/>
 		<Product type="0403" id="2000" name="FGS213 Switch" config="fibaro/fgs213.xml"/>
+		<Product type="0403" id="3000" name="FGS213 Switch" config="fibaro/fgs213.xml"/>
 		<Product type="0403" id="4000" name="FGS213 Switch" config="fibaro/fgs213.xml"/>
 		<Product type="0200" id="0104" name="FGS221 Double Relay Switch 2x1.5kW" config="fibaro/fgs221.xml" />
 		<Product type="0200" id="0105" name="FGS221 Double Relay Switch 2x1.5kW" config="fibaro/fgs221.xml" />
@@ -798,6 +803,7 @@
 		<Product type="0b01" id="1002" name="FGFS101 Zwave+ Flood Sensor" config="fibaro/fgfs101zw5.xml" />
 		<Product type="0b01" id="1003" name="FGFS101 Zwave+ Flood Sensor" config="fibaro/fgfs101zw5.xml" />
 		<Product type="0b01" id="2002" name="FGFS101 Zwave+ Flood Sensor" config="fibaro/fgfs101zw5.xml" />
+		<Product type="0b01" id="2003" name="FGFS101 Zwave+ Flood Sensor" config="fibaro/fgfs101zw5.xml" />
 		<Product type="0900" id="1000" name="FGRGBWM441 RGBW Controller" config="fibaro/fgrgbwm441.xml" />
 		<Product type="0900" id="2000" name="FGRGBWM441 RGBW Controller" config="fibaro/fgrgbwm441.xml"/>
 		<Product type="0900" id="3000" name="FGRGBWM441 RGBW Controller" config="fibaro/fgrgbwm441.xml"/>
@@ -817,6 +823,7 @@
 		<Product type="1301" id="1000" name="FGT001 Heat Controller" config="fibaro/fgt001.xml"/>
 		<Product type="1701" id="2000" name="FGWPG111 US Wall Plug" config="fibaro/fgwpg111.xml"/>
 		<Product type="1801" id="1000" name="FGWPG111 UK Wall Plug" config="fibaro/fgwpg111.xml"/>
+		<Product type="1C01" id="1000" name="FGWDEU-111 Walli Dimmer" config="fibaro/fgwd111.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0295" name="fifthplay nv">
 	</Manufacturer>
@@ -1056,6 +1063,7 @@
 		<Product type="0011" id="0008" name="TH6320ZW2003 T6 Pro Series Thermostat" config="honeywell/th6320zw2003.xml"/>
 		<Product type="0001" id="0003" name="Lynx Touch L5100 / L7000" config="honeywell/lynx-touch-l5100.xml"/>
 		<Product type="4944" id="3038" name="39351 / ZW3005 In-Wall Smart Dimmer" config="honeywell/39351-ZW3005.xml"/>
+		<Product type="4952" id="3135" name="39348 / ZW4008 In-Wall Smart Switch" config="honeywell/39348-zw4008.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0313" name="Hoppe">
 	</Manufacturer>
@@ -1227,7 +1235,7 @@
 		<Product type="0003" id="0642" name="SmartCode 916" config="kwikset/smartcode.xml"/>
 		<Product type="0006" id="0440" name="SmartCode 10" config="kwikset/smartcode.xml"/>
 		<Product type="0003" id="0440" name="SmartCode 914 Z-Wave Plus" config="kwikset/smartcode.xml"/>
-		<Product type="0003" id="0446" name="Convert 914 Z-Wave Plus" config="kwikset/smartcode.xml"/>
+		<Product type="0003" id="0446" name="Convert 914 Z-Wave Plus" config="kwikset/914c.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0051" name="Lagotek Corp">
 	</Manufacturer>
@@ -1617,6 +1625,7 @@
 		<Product type="0002" id="0052" name="ZMNHADx Flush 1 Relay" config="qubino/ZMNHADx.xml"/>
 		<Product type="0002" id="0053" name="ZMNHND1 Flush 1D relay" config="qubino/ZMNHNDx.xml"/>
 		<Product type="0002" id="0054" name="ZMNHYD1 Smart Plug 16A" config="qubino/ZMNHYDx.xml"/>
+		<Product type="0001" id="0055" name="ZMNHHDx Mini Dimmer" config="qubino/ZMNHHDx.xml"/>
 		<Product type="0003" id="0002" name="ZMNHCA2 Flush Shutter" config="qubino/ZMNHCA2.xml"/>
 		<Product type="0003" id="0052" name="ZMNHCDx Flush Shutter" config="qubino/ZMNHCDx.xml"/>
 		<Product type="0003" id="0053" name="ZMNHOD1 Flush Shutter DC" config="qubino/ZMNHODx.xml"/>
