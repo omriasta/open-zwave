@@ -648,6 +648,8 @@
 		<Product type="0003" id="0001" name="EUR_SPIRITZ Wall Radiator Thermostat" config="eurotronic/eur_spiritz.xml"/>
 		<Product type="0003" id="0002" name="EUR_SPIRITZ Wall Radiator Thermostat" config="eurotronic/eur_spiritz.xml"/>
 		<Product type="0003" id="0003" name="EUR_SPIRITZ Wall Radiator Thermostat" config="eurotronic/eur_spiritz.xml"/>
+		<Product type="0004" id="0001" name="Temperature and Humidity Sensor" config="eurotronic/eur_temphumin.xml"/>
+    		<Product type="0005" id="0001" name="Air Quality Sensor" config="eurotronic/eur_airquality.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0060" name="Everspring">
 		<Product type="0001" id="0001" name="HSP02 Motion Detector" config="everspring/hsp02.xml"/>
@@ -897,6 +899,7 @@
 		<Product type="494d" id="3032" name="26931 Smart Motion Switch" config="ge/26931-motion-switch.xml"/>
 		<Product type="494d" id="3034" name="26933 Smart Motion Dimmer" config="ge/26933-motion-dimmer.xml"/>
 		<Product type="4952" id="3036" name="14291 In-Wall Smart Switch" config="ge/14291-switch.xml"/>
+		<Product type="4952" id="3135" name="46201 In-Wall Smart Switch" config="ge/46201-switch.xml"/>
 		<Product type="4952" id="3037" name="14292 In-Wall Smart Toggle Switch" config="ge/14292-toggle-switch.xml"/>
 		<Product type="4952" id="3038" name="14293 In-Wall Smart Toggle Switch" config="ge/14292-toggle-switch.xml"/>
 		<Product type="5250" id="3030" name="45603 Plugin Appliance Module"/>
@@ -1705,6 +1708,9 @@
 	<Manufacturer id="0216" name="RET Nanjing Intelligence System">
 	</Manufacturer>
 	<Manufacturer id="0153" name="Revolv">
+	</Manufacturer>
+	<Manufacturer id="0346" name="Ring">
+		<Product type="0601" id="0101" name="Smoke/CO Listener" config="ring/BHASL001.xml"/>
 	</Manufacturer>
 	<Manufacturer id="035E" name="RISCO Group">
 	</Manufacturer>

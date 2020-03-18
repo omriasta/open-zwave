@@ -245,6 +245,7 @@ DISTFILES =	.gitignore \
 	config/ge/14282-plugin-switch.xml \
 	config/ge/14288-outlet.xml \
 	config/ge/14291-switch.xml \
+	config/ge/46201-switch.xml \
 	config/ge/14292-toggle-switch.xml \
 	config/ge/14294-dimmer.xml \
 	config/ge/14295-dimmer-toggle.xml \
@@ -465,6 +466,7 @@ DISTFILES =	.gitignore \
 	config/remotec/zurc.xml \
 	config/remotec/zxt-120.xml \
 	config/remotec/zxt-600.xml \
+	config/ring/BHASL001.xml \
 	config/schlage/BE468.xml \
 	config/schlage/BE469.xml \
 	config/schlage/BE469ZP.xml \
